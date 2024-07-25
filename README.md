@@ -1,1 +1,1 @@
-# RAG--Applications-Development
+# RAG-Applications-Development
